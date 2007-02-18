@@ -1,0 +1,45 @@
+RSS2MySQL v0.1
+
+About
+
+	Small script which reads in an RSS feed, takes the news items and then puts
+	them in a MySQL database.
+
+
+Installation / Usage
+
+	Follow these steps to install the script:
+
+	1. Create a new database for the RSS items.
+	2. Import rss2mysql.sql into the new database.
+	3. Modify rss2mysql.php and change the settings to suit your environment.
+	4. Place rss2mysql.php somewhere in your web root.
+	5. Run it.
+
+
+Author / Support
+	
+	This script was written by Ferry Boender.
+
+	The author does not provide any kind of support for this script. Do not
+	mail me with bugs, feature-requests, etc.
+
+
+Legal stuff
+
+	RSS2MySQL is Public Domain.
+
+	I grant anyone the right to use this work for any purpose, without any
+	conditions.
+
+	NO WARRANTY
+
+	BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR
+	THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  THE AUTHOR
+	PROVIDES THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
+	OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+	MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS
+	TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE
+	PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,
+	REPAIR OR CORRECTION.
+
